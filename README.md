@@ -11,7 +11,12 @@
 ```
 dotnet run
 ```
-# Get started on the React Frontend by running
+# Get started on the React Frontend by running:
+- Install the dependencies:
+```
+yarn install
+```
+- Run the program:
 ```
 yarn start
 ```
