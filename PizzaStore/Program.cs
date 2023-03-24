@@ -22,9 +22,11 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy(name: MyAllowSpecificOrigins,
-      builder =>
+      policy =>
       {
-          builder.WithOrigins("*");
+          policy.WithOrigins("http://localhost:3000")
+                .AllowAnyMethod()
+                .AllowAnyHeader();
       });
 });
 

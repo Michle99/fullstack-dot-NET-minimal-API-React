@@ -1,10 +1,12 @@
-import Main from './Main';
+// import Main from './Main';
 import './App.css';
+import PizzaHome from './components/PizzaHome';
 
 function App() {
   return (
     <div className="App">
-      <Main />
+      {/* <Main /> */}
+      <PizzaHome />
     </div>
   );
 }

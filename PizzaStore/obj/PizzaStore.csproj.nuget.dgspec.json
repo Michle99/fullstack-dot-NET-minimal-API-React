@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sammi\\Downloads\\pizzaStore-FS\\PizzaStore\\PizzaStore.csproj": {}
+    "C:\\Users\\sammi\\Downloads\\fullstack-dot-NET-minimal-API-React\\PizzaStore\\PizzaStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sammi\\Downloads\\pizzaStore-FS\\PizzaStore\\PizzaStore.csproj": {
+    "C:\\Users\\sammi\\Downloads\\fullstack-dot-NET-minimal-API-React\\PizzaStore\\PizzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sammi\\Downloads\\pizzaStore-FS\\PizzaStore\\PizzaStore.csproj",
+        "projectUniqueName": "C:\\Users\\sammi\\Downloads\\fullstack-dot-NET-minimal-API-React\\PizzaStore\\PizzaStore.csproj",
         "projectName": "PizzaStore",
-        "projectPath": "C:\\Users\\sammi\\Downloads\\pizzaStore-FS\\PizzaStore\\PizzaStore.csproj",
+        "projectPath": "C:\\Users\\sammi\\Downloads\\fullstack-dot-NET-minimal-API-React\\PizzaStore\\PizzaStore.csproj",
         "packagesPath": "C:\\Users\\sammi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sammi\\Downloads\\pizzaStore-FS\\PizzaStore\\obj\\",
+        "outputPath": "C:\\Users\\sammi\\Downloads\\fullstack-dot-NET-minimal-API-React\\PizzaStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
